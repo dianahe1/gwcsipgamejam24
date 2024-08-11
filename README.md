@@ -8,3 +8,5 @@ To match the theme of "what hope means to me", I chose to create a game where th
 This platform game allows the user to use the arrow keys to move up, down, forward, and backward to navigate the setting. There are five levels in total, each corresponding to a different need that the user must fulfill in order to reach the end.
 
 The intensity of these needs is based on Maslow's hierarchy of needs to some extent, as the user must first collect basic supplies like food and water before moving on to self-actualization.
+
+Primarily uses Javascript libraries p5.js and [p5play](https://github.com/quinton-ashley/p5play)
